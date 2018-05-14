@@ -1,0 +1,9 @@
+machine:
+  node:
+    version: 6.14.2
+dependencies:
+  pre:
+     npm install
+checkout:
+test:
+     npm test
